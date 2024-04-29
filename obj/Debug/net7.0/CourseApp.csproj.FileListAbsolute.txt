@@ -1,0 +1,66 @@
+C:\Users\aysen\Desktop\CourseApp\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\aysen\Desktop\CourseApp\bin\Debug\net7.0\appsettings.json
+C:\Users\aysen\Desktop\CourseApp\bin\Debug\net7.0\CourseApp.staticwebassets.runtime.json
+C:\Users\aysen\Desktop\CourseApp\bin\Debug\net7.0\CourseApp.exe
+C:\Users\aysen\Desktop\CourseApp\bin\Debug\net7.0\CourseApp.deps.json
+C:\Users\aysen\Desktop\CourseApp\bin\Debug\net7.0\CourseApp.runtimeconfig.json
+C:\Users\aysen\Desktop\CourseApp\bin\Debug\net7.0\CourseApp.dll
+C:\Users\aysen\Desktop\CourseApp\bin\Debug\net7.0\CourseApp.pdb
+C:\Users\aysen\Desktop\CourseApp\obj\Debug\net7.0\CourseApp.csproj.AssemblyReference.cache
+C:\Users\aysen\Desktop\CourseApp\obj\Debug\net7.0\CourseApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aysen\Desktop\CourseApp\obj\Debug\net7.0\CourseApp.AssemblyInfoInputs.cache
+C:\Users\aysen\Desktop\CourseApp\obj\Debug\net7.0\CourseApp.AssemblyInfo.cs
+C:\Users\aysen\Desktop\CourseApp\obj\Debug\net7.0\CourseApp.csproj.CoreCompileInputs.cache
+C:\Users\aysen\Desktop\CourseApp\obj\Debug\net7.0\CourseApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\aysen\Desktop\CourseApp\obj\Debug\net7.0\CourseApp.RazorAssemblyInfo.cache
+C:\Users\aysen\Desktop\CourseApp\obj\Debug\net7.0\CourseApp.RazorAssemblyInfo.cs
+C:\Users\aysen\Desktop\CourseApp\obj\Debug\net7.0\staticwebassets\msbuild.CourseApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\aysen\Desktop\CourseApp\obj\Debug\net7.0\staticwebassets\msbuild.build.CourseApp.props
+C:\Users\aysen\Desktop\CourseApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CourseApp.props
+C:\Users\aysen\Desktop\CourseApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CourseApp.props
+C:\Users\aysen\Desktop\CourseApp\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\aysen\Desktop\CourseApp\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\aysen\Desktop\CourseApp\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\aysen\Desktop\CourseApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\aysen\Desktop\CourseApp\obj\Debug\net7.0\scopedcss\bundle\CourseApp.styles.css
+C:\Users\aysen\Desktop\CourseApp\obj\Debug\net7.0\scopedcss\projectbundle\CourseApp.bundle.scp.css
+C:\Users\aysen\Desktop\CourseApp\obj\Debug\net7.0\CourseApp.dll
+C:\Users\aysen\Desktop\CourseApp\obj\Debug\net7.0\refint\CourseApp.dll
+C:\Users\aysen\Desktop\CourseApp\obj\Debug\net7.0\CourseApp.pdb
+C:\Users\aysen\Desktop\CourseApp\obj\Debug\net7.0\CourseApp.genruntimeconfig.cache
+C:\Users\aysen\Desktop\CourseApp\obj\Debug\net7.0\ref\CourseApp.dll
+C:\Users\aysen\Desktop\CourseApp\bin\Debug\net7.0\package-lock.json
+C:\Users\aysen\Desktop\CourseApp\bin\Debug\net7.0\package.json
+D:\asp.net core 7.0 mvc projects\CourseApp\bin\Debug\net7.0\appsettings.Development.json
+D:\asp.net core 7.0 mvc projects\CourseApp\bin\Debug\net7.0\appsettings.json
+D:\asp.net core 7.0 mvc projects\CourseApp\bin\Debug\net7.0\package-lock.json
+D:\asp.net core 7.0 mvc projects\CourseApp\bin\Debug\net7.0\package.json
+D:\asp.net core 7.0 mvc projects\CourseApp\bin\Debug\net7.0\CourseApp.staticwebassets.runtime.json
+D:\asp.net core 7.0 mvc projects\CourseApp\bin\Debug\net7.0\CourseApp.exe
+D:\asp.net core 7.0 mvc projects\CourseApp\bin\Debug\net7.0\CourseApp.deps.json
+D:\asp.net core 7.0 mvc projects\CourseApp\bin\Debug\net7.0\CourseApp.runtimeconfig.json
+D:\asp.net core 7.0 mvc projects\CourseApp\bin\Debug\net7.0\CourseApp.dll
+D:\asp.net core 7.0 mvc projects\CourseApp\bin\Debug\net7.0\CourseApp.pdb
+D:\asp.net core 7.0 mvc projects\CourseApp\obj\Debug\net7.0\CourseApp.csproj.AssemblyReference.cache
+D:\asp.net core 7.0 mvc projects\CourseApp\obj\Debug\net7.0\CourseApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\asp.net core 7.0 mvc projects\CourseApp\obj\Debug\net7.0\CourseApp.AssemblyInfoInputs.cache
+D:\asp.net core 7.0 mvc projects\CourseApp\obj\Debug\net7.0\CourseApp.AssemblyInfo.cs
+D:\asp.net core 7.0 mvc projects\CourseApp\obj\Debug\net7.0\CourseApp.csproj.CoreCompileInputs.cache
+D:\asp.net core 7.0 mvc projects\CourseApp\obj\Debug\net7.0\CourseApp.MvcApplicationPartsAssemblyInfo.cache
+D:\asp.net core 7.0 mvc projects\CourseApp\obj\Debug\net7.0\CourseApp.RazorAssemblyInfo.cache
+D:\asp.net core 7.0 mvc projects\CourseApp\obj\Debug\net7.0\CourseApp.RazorAssemblyInfo.cs
+D:\asp.net core 7.0 mvc projects\CourseApp\obj\Debug\net7.0\staticwebassets\msbuild.CourseApp.Microsoft.AspNetCore.StaticWebAssets.props
+D:\asp.net core 7.0 mvc projects\CourseApp\obj\Debug\net7.0\staticwebassets\msbuild.build.CourseApp.props
+D:\asp.net core 7.0 mvc projects\CourseApp\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.CourseApp.props
+D:\asp.net core 7.0 mvc projects\CourseApp\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.CourseApp.props
+D:\asp.net core 7.0 mvc projects\CourseApp\obj\Debug\net7.0\staticwebassets.pack.json
+D:\asp.net core 7.0 mvc projects\CourseApp\obj\Debug\net7.0\staticwebassets.build.json
+D:\asp.net core 7.0 mvc projects\CourseApp\obj\Debug\net7.0\staticwebassets.development.json
+D:\asp.net core 7.0 mvc projects\CourseApp\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\asp.net core 7.0 mvc projects\CourseApp\obj\Debug\net7.0\scopedcss\bundle\CourseApp.styles.css
+D:\asp.net core 7.0 mvc projects\CourseApp\obj\Debug\net7.0\scopedcss\projectbundle\CourseApp.bundle.scp.css
+D:\asp.net core 7.0 mvc projects\CourseApp\obj\Debug\net7.0\CourseApp.dll
+D:\asp.net core 7.0 mvc projects\CourseApp\obj\Debug\net7.0\refint\CourseApp.dll
+D:\asp.net core 7.0 mvc projects\CourseApp\obj\Debug\net7.0\CourseApp.pdb
+D:\asp.net core 7.0 mvc projects\CourseApp\obj\Debug\net7.0\CourseApp.genruntimeconfig.cache
+D:\asp.net core 7.0 mvc projects\CourseApp\obj\Debug\net7.0\ref\CourseApp.dll
